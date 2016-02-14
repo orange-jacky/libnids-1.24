@@ -1,0 +1,3 @@
+---- start_time Matches (2 in 2 files) ----
+Nids.h (src):  struct pcap_pkthdr start_time;
+Tcp.c (src):  a_tcp->start_time = *hdr;//add syn packet arrival time
